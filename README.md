@@ -35,24 +35,25 @@ pip install pillow
 
 ## How to Use
 Add the image file inside the project folder
+
 Run the program:
 ```Bash
 python image_encryptor.py
 ```
-Choose:
-'e' for encryption
-'d' for decryption
-Enter:
-image file name
-encryption key
-Output Files
-Encrypted image: encrypted_image.png
-Decrypted image: decrypted_image.png
+### Choose:
+'e' for encryption<br>
+'d' for decryption<br>
+### Enter:
+image file name<br>
+encryption key<br>
+### Output Files:
+Encrypted image: encrypted_image.png<br>
+Decrypted image: decrypted_image.png<br>
 
 ## Technologies Used
-Python
-Pillow Library
+- Python
+- Pillow Library
 
 ## Author
-Manpreet Kaur 
+Manpreet Kaur<br>
 Cyber Security Intern @ Prodigy InfoTech
