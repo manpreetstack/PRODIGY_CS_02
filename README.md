@@ -33,7 +33,6 @@ Install Pillow library before running the program:
 pip install pillow
 ```
 
-
 ## How to Use
 Add the image file inside the project folder
 Run the program:
