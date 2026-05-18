@@ -31,3 +31,28 @@ Install Pillow library before running the program:
 
 ```bash
 pip install pillow
+```
+
+
+## How to Use
+Add the image file inside the project folder
+Run the program:
+```Bash
+python image_encryptor.py
+```
+Choose:
+'e' for encryption
+'d' for decryption
+Enter:
+image file name
+encryption key
+Output Files
+Encrypted image: encrypted_image.png
+Decrypted image: decrypted_image.png
+
+## Technologies Used
+Python
+Pillow Library
+
+## Author
+Manpreet Kaur Cyber Security Intern @ Prodigy InfoTech
