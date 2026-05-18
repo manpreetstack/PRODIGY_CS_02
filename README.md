@@ -55,4 +55,5 @@ Python
 Pillow Library
 
 ## Author
-Manpreet Kaur Cyber Security Intern @ Prodigy InfoTech
+Manpreet Kaur 
+Cyber Security Intern @ Prodigy InfoTech
