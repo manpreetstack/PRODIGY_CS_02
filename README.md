@@ -40,6 +40,7 @@ Run the program:
 ```Bash
 python image_encryptor.py
 ```
+
 ### Choose:
 'e' for encryption<br>
 'd' for decryption<br>
